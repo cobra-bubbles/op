@@ -1,0 +1,10 @@
+.venv
+venv/
+.idea
+.idea/
+.git
+.log
+logs/
+.env
+.ipynb_checkpoints
+.ipynb_checkpoints/
